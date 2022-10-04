@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I'm Danil, middle front-end engineer from Russia<br>🔭 I love traveling and skiing. Extreamly enjoy to communicate with people, share my experience <br>and participate in discussions on programming topics<br>👯 I work at Yandex and am looking for new interesting tasks<br>💬 You can ask me whatever you want ^_^<br>
+⚡I'm Danil, middle front-end engineer from Russia<br>🔭 I love traveling and skiing. Extreamly enjoy to communicate with people, share my experience <br>and participate in discussions on programming topics<br>👯 Im working in Yandex and am looking for new interesting tasks<br>💬 You can ask me whatever you want ^_^<br>
 
 
 ## 🌐 Socials:

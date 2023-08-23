@@ -38,4 +38,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kyzinatra&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Counter](https://visitcount.itsvg.in/api?id=kyzinatra&icon=0&color=1)](https://visitcount.itsvg.in)

@@ -1,5 +1,11 @@
 # 💫 About Me:
-⚡I'm Danil Solomin, middle front-end engineer from Russia<br>🔭 I love traveling and skiing. Extreamly enjoy to communicate with people, share my experience <br>and participate in discussions on programming topics<br>👯 I work in Yandex and am looking for new interesting tasks<br>💬 You can ask me whatever you want ^_^<br>
+Hi, I'm Danil Solomin, and I work as a Senior front-end engineer. 🌐
+
+🔭 I love to travel, ski, and meet new people. Talking about coding and sharing what I know is something I really enjoy.
+
+👯 I'm with Yandex right now, always on the lookout for cool new projects to tackle.
+
+💬 Got any questions or just want to chat? Feel free to reach out. I'm all ears! ^_^
 
 
 ## 🌐 Socials:

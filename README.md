@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Danil Solomin, and I work as a Senior front-end engineer. 🌐
+🌐 Hi, I'm Danil Solomin, and I work as a Senior front-end engineer.
 
 🔭 I love to travel, ski, and meet new people. Talking about coding and sharing what I know is something I really enjoy.
 

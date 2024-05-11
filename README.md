@@ -3,7 +3,7 @@
 
 🔭 I love to travel, ski, and meet new people. Talking about coding and sharing what I know is something I really enjoy.
 
-👯 I'm with Yandex right now, but always on the lookout for cool new projects to tackle.
+👯 On the lookout for cool new projects to tackle.
 
 💬 Got any questions or just want to chat? Feel free to reach out. I'm all ears! ^_^
 

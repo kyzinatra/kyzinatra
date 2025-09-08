@@ -10,6 +10,7 @@
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/Kyzinatri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230088CC.svg?logoColor=white)](https://www.linkedin.com/in/danil-solomin-61245a383/)
 
 # 💻 Tech Stack:
 
